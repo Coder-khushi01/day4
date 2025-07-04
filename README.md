@@ -116,45 +116,63 @@ In simpler terms, you can think of a motherboard as the command centre that allo
 |SRAM|	Static RAM	No refresh, fast, costly|
 |DRAM| Dynamic RAM	Needs refresh, slower, widely used|
 
-### Storage Devices
+## Storage Devices
 
-Device	Use
-Hard Disk	Main permanent storage
-SSD	Faster version of HDD (Solid State)
-DVD Drive	Optical disk reading
-Blu-ray Disc	New version of DVD (double layer)
-Floppy Disk	Very old data storage
-Pen Drive	Portable data transfer
-🌐 9. Input/Output Ports & Interfaces
-Port/Device	Purpose
-HDMI Port	High-quality video/audio output
-VGA Port	Old analog display (needs converter)
-LAN Adapter	Connects to local network
-NIC	Enables networking/internet
-USB Ports	Connects pen drives, keyboard, mouse etc.
-Data Cables	Usually copper wires used for transfer
-🔧 10. BIOS, Firmware, and Drivers
-Term	Explanation
-BIOS/UEFI	Firmware stored in ROM; runs before OS starts
-Drivers	Utility software that enables hardware working
-🔌 11. Extra Hardware Concepts
-Concept	Description
-Modem	Converts analog ↔ digital signals
-UPS	Backup power source (uses battery)
-SMPS	Converts voltage (AC ↔ DC)
-Bootstrap	Startup instructions in ROM to load OS
-Registers	Tiny memory in CPU; faster than RAM, used for execution
-🧠 12. Chipset & Bridges (Detailed)
-Bridge	Function
-Northbridge	Connects CPU to RAM, GPU, cache
-Southbridge	Connects CPU to I/O devices like USB, HDD, network
-🧩 These two bridges together form the motherboard chipset – managing data flow inside the system.
+|Device|	Use|
+|------|----|
+| Hard Disk|	Main permanent storage|
+|SSD|	Faster version of HDD (Solid State)|
+|DVD Drive|	Optical disk reading|
+|Blu-ray |Disc	New version of DVD (double layer)|
+|Floppy Disk|	Very old data storage|
+|Pen Drive	|Portable data transfer|
+
+## Input/Output Ports & Interfaces
+
+|Port/Device	|Purpose|
+|------------|-------|
+|HDMI Port|	High-quality video/audio output|
+|VGA Port|	Old analog display (needs converter)|
+|LAN Adapter|	Connects to local network|
+|NIC|	Enables networking/internet|
+|USB Ports	|Connects pen drives, keyboard, mouse etc.|
+|Data Cables|	Usually copper wires used for transfer|
+
+## BIOS, Firmware, and Drivers
+
+|Term|	Explanation|
+|-----|-----------|
+|BIOS/UEFI|	Firmware stored in ROM; runs before OS starts|
+|Drivers|	Utility software that enables hardware working|
+
+## Extra Hardware Concepts
+
+|Concept|	Description|
+|-------|------------|
+|Modem|	Converts analog ↔ digital signals|
+|UPS|	Backup power source (uses battery)|
+|SMPS	|Converts voltage (AC ↔ DC)|
+|Bootstrap|	Startup instructions in ROM to load OS|
+|Registers|	Tiny memory in CPU; faster than RAM, used for execution|
+
+##  Chipset & Bridges (Detailed)
+
+|Bridge|	Function|
+|-------|--------|
+|Northbridge|	Connects CPU to RAM, GPU, cache|
+|Southbridge|	Connects CPU to I/O devices like USB, HDD, network|
+
+ These two bridges together form the motherboard chipset – managing data flow inside the system.
 
 IMPORTANT NOTE
 
-Study difference between RAM & ROM
-Study difference between RAM & Cache memory
-Study difference between RAM & Registers
-Study difference between RAM & Hard disk
-Study difference between RAM & ROM
+^ Study difference between RAM & ROM
+
+^ Study difference between RAM & Cache memory
+
+^ Study difference between RAM & Registers
+
+^ Study difference between RAM & Hard disk
+
+^ Study difference between RAM & ROM
 
